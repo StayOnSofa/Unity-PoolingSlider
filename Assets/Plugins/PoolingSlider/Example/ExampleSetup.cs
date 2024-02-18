@@ -35,7 +35,7 @@ namespace PoolingSlider.Example
                 examples.Add(new Example(Color.white, _example2));
             }
 
-            _poolingSlider.Constructor(_prefab, _examples, clickedExample =>
+            _poolingSlider.Constructor(_prefab, examples, clickedExample =>
             {
                 //Action where you click on slide
             });
