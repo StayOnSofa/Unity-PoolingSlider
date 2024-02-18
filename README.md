@@ -70,3 +70,5 @@ Initialize pooling slider with your data in a setup class:
     }
 }
 ```
+
+This project uses code from the [ScrollList](https://github.com/boonyifei/ScrollList) repository by [boonyifei](https://github.com/boonyifei).
