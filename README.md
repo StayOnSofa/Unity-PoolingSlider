@@ -23,7 +23,7 @@ public class Example
     }
 }
 ```
-To create a class that fills up your UI slides, use PoolingSlide<YourModel>:
+Fills up your UI slides, use PoolingSlide<YourModel>:
 ```C#
 //View layer
 public class ExampleSlide : PoolingSlide<Example>
